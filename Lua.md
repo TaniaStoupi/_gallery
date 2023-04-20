@@ -1,0 +1,15 @@
+---
+author: TaniaStoupi
+image_url: /images/Lua.jpg
+title: Lua
+year: -
+caption: Η Lua είναι ελαφριά προστακτική γλώσσα προγραμματισμού. Το όνομα προέρχεται από την πορτογαλική λέξη lua που σημαίνει "φεγγάρι". Η Lua έχει ένα σχετικά απλό C API. Η Lua έχει χρησιμοποιηθεί σε πολλές εφαρμογές, εμπορικές και μη-εμπορικές, και ιδιαίτερα στη βιομηχανία βιντεοπαιχνιδιών. 
+license_url: "https://el.wikipedia.org/wiki/Lua" 
+license_text: Wikipedia 
+categories:
+  - Εργαλεία
+  - Γλώσσα προγραμματισμού
+tags:
+  - Video Games
+  - Lua 
+---
